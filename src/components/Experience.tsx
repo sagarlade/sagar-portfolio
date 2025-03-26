@@ -3,21 +3,9 @@ import { useEffect, useRef } from "react";
 
 const experiences = [
   {
-    title: "Associate Product Engineer",
-    company: "Bizdata360 Inc.",
-    period: "July 2022 - Present",
-    description: "Leading development of scalable web applications using .NET Core and React. Designing and optimizing database schemas for improved performance."
-  },
-  {
-    title: "Jr. Software Engineer",
-    company: "Codemind Technology",
-    period: "Jan 2021 - June 2022",
-    description: "Implemented RESTful APIs for e-commerce platforms and contributed to hospital management system backend development."
-  },
-  {
     title: ".NET Developer",
     company: "Orinova Innovation and Technology Private Limited",
-    period: "May 2020 - Dec 2020",
+    period: "July 2023 - Present",
     description: "Developed and maintained ERP modules using .NET Framework and SQL Server. Created responsive user interfaces using HTML, CSS, and JavaScript."
   },
   {

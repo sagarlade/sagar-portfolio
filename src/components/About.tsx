@@ -3,8 +3,9 @@ import { useEffect, useRef } from "react";
 
 const skills = [
   { name: ".NET", icon: "💻" },
-  { name: "Python", icon: "🐍" },
+  { name: "ASP .NET Core", icon: "💻" },
   { name: "JavaScript", icon: "⚡" },
+  { name: "C#", icon: "C#"},
   { name: "React.js", icon: "⚛️" },
   { name: "SQL", icon: "🗄️" },
   { name: "MongoDB", icon: "🍃" },
@@ -86,8 +87,8 @@ export default function About() {
         <div className="max-w-4xl mx-auto bg-card border border-border rounded-2xl p-8 shadow-lg glass-card">
           <div className="prose prose-lg dark:prose-invert max-w-none">
             <p className="text-lg leading-relaxed text-balance">
-              I am a Full Stack Developer with expertise in .NET, Python, JavaScript, React.js, SQL, and MongoDB. 
-              With 3.3 years of experience, I have worked on ERP systems, e-commerce APIs, and hospital management systems. 
+              I am a Full Stack Developer with expertise in .NET, C#, JavaScript, React.js, SQL, Entity Framework and MongoDB. 
+              With 2.1 years of experience, I have worked on  e-commerce APIs, and hospital management systems. 
               Passionate about building scalable applications and optimizing databases.
             </p>
           </div>

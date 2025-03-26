@@ -30,20 +30,6 @@ const projects = [
     image: "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
     tags: ["ASP.NET Core", "SQL", "Azure Functions", "Swagger"],
     link: "#"
-  },
-  {
-    title: "Zomato Dataset Analysis",
-    description: "Data analysis and visualization of restaurant data to identify trends and patterns for business insights.",
-    image: "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80",
-    tags: ["Python", "Pandas", "NumPy", "Matplotlib"],
-    link: "#"
-  },
-  {
-    title: "Event Management System",
-    description: "Platform for event planning, ticket sales, and attendee management with QR code generation.",
-    image: "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
-    tags: ["React", "Firebase", "Stripe", "PWA"],
-    link: "#"
   }
 ];
 
